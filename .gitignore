@@ -1,0 +1,3 @@
+.vercel
+/client/.env
+/package-lock.json
